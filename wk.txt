@@ -2,5 +2,7 @@
 2.git status;
 3.git diff;git log;
 4.git checkout -- <files>   a. No execute git add;
-5.git checkout -- <files>   a. execute git add but no execute git commit;
+5.git checkout -- <files>   b. execute git add but no execute git commit;
 6.git rm  
+7.git push 
+8.git clone
