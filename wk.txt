@@ -1,1 +1,1 @@
-你好，github;
+1.git init;git add;git commit -m "说明信息"；
