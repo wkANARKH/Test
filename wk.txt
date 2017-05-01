@@ -1,3 +1,6 @@
 1.git init;git add;git commit -m "说明信息"；
 2.git status;
 3.git diff;git log;
+4.git checkout -- <files>   a. No execute git add;
+5.git checkout -- <files>   a. execute git add but no execute git commit;
+6.git rm  
